@@ -1,0 +1,2 @@
+# Electricity_Unit_Consumption_Analyzer
+Analyses the unit consumption
